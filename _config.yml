@@ -10,7 +10,7 @@ title:            Goce's Codes
 tagline:          'Just some tech stuff'
 description:      ''
 url:              https://gocedoko.github.io
-baseurl:          '/'
+baseurl:          /
 
 author:
   name:           'Goce Dokoski'
