@@ -17,8 +17,6 @@ author:
   url:            https://gocedoko.github.io
 
 paginate:         5
-gems: [jekyll-paginate]
-paginate_path: "page:num"
 
 # Custom vars
 version:          2.1.0
