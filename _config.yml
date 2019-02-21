@@ -8,7 +8,7 @@ relative_permalinks: false
 # Setup
 title:            Goce's Codes
 tagline:          'Just some tech stuff'
-description:      ''
+description:      'Just some tech stuff'
 url:              https://gocedoko.github.io
 baseurl:          /
 
