@@ -16,7 +16,7 @@ author:
   name:           'Goce Dokoski'
   url:            https://gocedoko.github.io
 
-paginate:         4
+paginate:         5
 
 # Custom vars
 version:          2.1.0
